@@ -1,8 +1,8 @@
 # The Open Source Audit: Git Capstone Project
 
-**Student Name:** [Your Name]
-**Registration Number:** [Your Reg Number]
-**Slot:** [Your Slot]
+**Student Name:** Dakshal Srivastava
+**Registration Number:** 24BSA10115
+**Slot:** D11
 **Chosen Software:** Git
 
 ## Script Overview
